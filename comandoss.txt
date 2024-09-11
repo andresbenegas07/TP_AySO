@@ -1,0 +1,67 @@
+    1  exit
+    2  kk
+    3  git status
+    4  vagrant halt
+    5  exit
+    6  pwd
+    7  ls -l
+    8  ls -la
+    9  ls -la .ssh/
+   10  ssh-keygen
+   11  ssh-keygen --help
+   12  ssh-keygen -t ed25519
+   13  ssh
+   14  ls -la .ssh/
+   15  history
+   16  cat .ssh/id_ed25519.pub 
+   17  ls -l
+   18  /ls -l
+   19* 
+   20  cd repogit/UTN-FRA_SO_onBording/
+   21  ..
+   22* dir 
+   23  ..
+   24  cd ~
+   25  cd repogit/
+   26  cd UTN-FRA_SO_onBording/
+   27  cd ~
+   28  cd repogit/
+   29  git clone git@github.com:andresbenegas07/TP_AySO.git
+   30  ls -l
+   31  cd /TP_AySO
+   32  T|n
+   33  n
+   34  ls -l
+   35  cd TP_AySO/
+   36  ls -l
+   37  ls -la
+   38  n
+   39  ls -l
+   40  touch archivo
+   41  git status
+   42  git add .
+   43  git status
+   44  git commit -m "add: primer commit"
+   45  git config --global user.email "andrescirobenegas@gmail.com"
+   46  git config --global user.name "andresbenegas07"
+   47  git push
+   48  ls -l
+   49  git status
+   50  git commit -m "add: primer commit"
+   51  git status
+   52  git push
+   53  wc -c << EOF
+linea 1
+linea 2
+EOF
+
+   54  cat << ENDD
+asas
+ENDD
+
+   55  ll
+   56  ls -l
+   57  ls -la
+   58  history > comandoss.txt
+ANDRES
+CIRO
